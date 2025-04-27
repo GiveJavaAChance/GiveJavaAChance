@@ -12,7 +12,7 @@ Two years before my love for programming began (2021-05-09), I built several Pul
 ## The Programming leap
 My programming philosophy is quite different due to the way I learned how to code (And how I became self-taught).
 
-A little more than three years ago, 2022-09-16, I was introduced to Java as a "beginner's language." At first, it was fun to learn about variables, loops, ifs, switches etc. Then it became about algorithms.  
+Almost three years ago, 2022-09-16, I was introduced to Java as a "beginner's language." At first, it was fun to learn about variables, loops, ifs, switches etc. Then it became about algorithms.  
 A bit later, (I can't remember exactly when) because I was ahead of the class and spent hours at home just for fun, I started asking different questions and taking different approaches to assignments and problems.
 
 When the class started covering Java Swing, we had to write stupid programs like a single button with a JTextArea that displayed random words, stuff that felt really uninspiring. But soon after, we got some challenges we got to pick from. When I looked through the options, I found "Sorting algorithms" and immediately knew that, THAT was what I wanted to make (It was the era of hour long videos of sorting algorithm visualizer videos, lol).  
